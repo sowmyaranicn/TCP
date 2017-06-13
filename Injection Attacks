@@ -9,4 +9,6 @@ Global IP-ID counter
 Exploiting browser-catch--> Running puppet---> scripts run as part of browser: not zombies:Malware run
 
 Injecting spoofed objects such as scripts and web pages
-Using Malware to 
+Using Malware(read system counter when packet is accepted by server) to learn sequence number and then spoof packets.
+
+Attacks Presented need puppet.
