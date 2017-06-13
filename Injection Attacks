@@ -1,7 +1,14 @@
 TCP vulnerable to MIIT Atacks
 Prone to offpath Injection attacks
-Even though cannt evesdrop; can spoof packets with fake IP
 
+off-path Injection Attacks-Even though cannot evvesdrop on packet sent to others; however they can send spoofed packets with fake IP
+TCP- randomize 32-bit sequence numbrs 
+Randomize 16-bit client port
+
+
+Attacks Presented----4---with different prerequisuts and performance properties
+
+1st--Global IP-ID counter
 4 attacks
 2-----> Learning sequence numbers 
 2-----> Learning port numbers
@@ -19,5 +26,6 @@ MODULAR ATTACK SCHEME:
 3. Exploit
 
 1. Learn victim's connection four tuple
+
 
 
