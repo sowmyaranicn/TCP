@@ -11,4 +11,13 @@ Exploiting browser-catch--> Running puppet---> scripts run as part of browser: n
 Injecting spoofed objects such as scripts and web pages
 Using Malware(read system counter when packet is accepted by server) to learn sequence number and then spoof packets.
 
-Attacks Presented need puppet.
+Attacks Presented in paper need puppet.
+
+MODULAR ATTACK SCHEME:
+1. Learn connection four tuple
+2. Learn sequence numbers
+3. Exploit
+
+1. Learn victim's connection four tuple
+
+
