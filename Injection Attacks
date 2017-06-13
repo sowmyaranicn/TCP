@@ -1,1 +1,11 @@
 TCP vulnerable to MIIT Atacks
+Prone to offpath Injection attacks
+Even though cannt evesdrop; can spoof packets with fake IP
+
+4 attacks
+2-----> Learning sequence numbers 
+2-----> Learning port numbers
+Global IP-ID counter
+Exploiting browser-catch--> Running puppet---> scripts run as part of browser: not zombies:Malware run
+
+Injecting spoofed objects such as scripts and web pages
